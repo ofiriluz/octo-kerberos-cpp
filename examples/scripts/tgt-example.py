@@ -1,4 +1,4 @@
-from dpa_krb5 import KRB5Authenticator, KRB5UserCredentials, DEFAULT_KERBEROS_PORT
+from octo_krb5 import KRB5Authenticator, KRB5UserCredentials, DEFAULT_KERBEROS_PORT
 import argparse
 import pprint
 
